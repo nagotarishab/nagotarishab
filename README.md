@@ -6,9 +6,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+intelligent+web+experiences;React+%7C+Python+%7C+Java+%7C+ML;From+EEG+signals+to+floor+plans+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://YOUR_PORTFOLIO_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishab-nagota)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishabnagota@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nagotarishab)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nagotarishab&color=58A6FF&style=flat-square&label=Profile+Views)
@@ -42,11 +41,10 @@ rishab = {
       <h3 align="center">🤖 AeroBott</h3>
       <p align="center">
         <a href="https://github.com/nagotarishab/AeroBott">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=nagotarishab&repo=AeroBott&theme=tokyonight&hide_border=true" alt="AeroBott"/>
         </a>
       </p>
       <p align="center">
-        A React-based intelligent bot interface built with Tailwind CSS. Modern, fast, and responsive.
+        A React-based intelligent drone interface built with Tailwind CSS. Modern, fast, and responsive.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
@@ -58,7 +56,6 @@ rishab = {
       <h3 align="center">🏠 Floor Planner 2D</h3>
       <p align="center">
         <a href="https://github.com/nagotarishab/Floor-Planner-2-D-">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=nagotarishab&repo=Floor-Planner-2-D-&theme=tokyonight&hide_border=true" alt="Floor Planner"/>
         </a>
       </p>
       <p align="center">
@@ -74,7 +71,6 @@ rishab = {
       <h3 align="center">🧠 EEG Analysis</h3>
       <p align="center">
         <a href="https://github.com/nagotarishab/EEG_Analysis">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=nagotarishab&repo=EEG_Analysis&theme=tokyonight&hide_border=true" alt="EEG Analysis"/>
         </a>
       </p>
       <p align="center">
@@ -89,7 +85,6 @@ rishab = {
       <h3 align="center">📦 Product Showcase Platform</h3>
       <p align="center">
         <a href="https://github.com/nagotarishab/Modern-Interactive-Product-Showcase-Platform">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=nagotarishab&repo=Modern-Interactive-Product-Showcase-Platform&theme=tokyonight&hide_border=true" alt="Product Showcase"/>
         </a>
       </p>
       <p align="center">
